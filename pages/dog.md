@@ -10,9 +10,3 @@ title: dog
 E=mc^2
 #+END_EXPORT
 ##
-#+BEGIN_VERSE
-This is the way
-The world
-ends
-#+END_VERSE
-##
